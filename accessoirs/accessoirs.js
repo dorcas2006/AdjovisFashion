@@ -1,0 +1,1 @@
+alert("Voici qlq accessoirs que vous customiser à votre guise.");

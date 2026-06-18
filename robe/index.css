@@ -1,0 +1,473 @@
+body {
+    background-image: url(../crochet_2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    padding: 0;
+}
+.container{
+    padding: 10px;
+    width: 100%;
+}
+    
+.case_one {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.image_un {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_un.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_un:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.image_deux {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_deux.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_deux:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.image_trois {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_trois.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_trois:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.image_cinq {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_cinq.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_cinq:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_quatre {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.prix_un {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.prix_deux {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.image_quatre {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_quatre.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_quatre:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_trois {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.case_two {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.case_three {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.case_un {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.case_deux {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.case_trois {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.case_quatre {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.case_cinq {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.un {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_six {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_six.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_six:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_cinq {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+
+.deux {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_sept {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_sept.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_sept:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_six {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+
+.trois {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+
+.image_huit {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_huit.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_huit:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_sept {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.quatre {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_neuf {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_neuf.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_neuf:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_huit {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.cinq {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_dix {
+    height: 49vh;
+    width: 100% ;
+    
+    background-image:url(../image/robe_onze.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_dix:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_neuf {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.one {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_one {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_douze.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_one:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_one {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.two {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_two {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_treize.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_two:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_two {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.three {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_three{
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_quat.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_three:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_three {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.four {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_four {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_quin.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_four:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_four {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+
+.five {
+    height: 58vh;
+    width: 18%;
+    border-radius: 10px;
+}
+.image_five {
+    height: 49vh;
+    width: 100% ;
+    background-image:url(../image/robe_seize.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.image_five:hover{
+    transform: scale(1.1) rotate(2deg);
+}
+.prix_five {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.prix {
+    height: 7vh;
+    width: 98%;
+    border: 2px dotted rgb(70, 68, 68);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vh;
+    background-color: white;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.via{
+    height: 6vh;
+    width: 20%;
+    border: 1px solid green;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(73, 117, 7);
+    color: white;
+}
+.okay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.okay a{
+    color: white;
+    text-decoration-line: none;
+}
+

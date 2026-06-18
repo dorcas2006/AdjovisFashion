@@ -1,0 +1,1 @@
+alert("Bienvenu(e) sur note site de crochet. Veuillez parcourrir nos articles \nNB:Vous pouvez customisez vos artciles si vous voulez.\n Ce articls ne sont que des prototypes.");
